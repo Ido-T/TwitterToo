@@ -5,7 +5,7 @@
 
 **Tweet Of Iberdo** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **5h** hours spent in total
+Time spent: **3h** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 - [ ] User can see embedded image media within the tweet detail view
 - [ ] User sees an **indeterminate progress indicator** when any background or network task is happening
 - [ ] User can **see embedded image media within a tweet** on list or detail view.
-- [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
+- [x] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
 - [ ] User can view following / followers list through any profile they view.
 - [ ] User is using **"Twitter branded" colors and styles**
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Ido-T/TweetOfMe/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ido-T/TwitterToo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
